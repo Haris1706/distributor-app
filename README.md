@@ -2,6 +2,9 @@
 
 Aplikasi manajemen distributor berbasis PHP dan MySQL. Project ini mencakup fitur manajemen barang, kategori, transaksi, dan autentikasi pengguna menggunakan Google OAuth.
 
+**Catatan:** Project ini disusun untuk memenuhi **Tugas Ujian Akhir Semester (UAS)** pada mata kuliah terkait pengembangan aplikasi web.
+
+
 ---
 
 ## Struktur Database
