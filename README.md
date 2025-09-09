@@ -1,4 +1,3 @@
-# distributor-app
 # Distributor App
 
 Aplikasi manajemen distributor berbasis PHP dan MySQL. Project ini mencakup fitur manajemen barang, kategori, transaksi, dan autentikasi pengguna menggunakan Google OAuth.
